@@ -1,0 +1,1 @@
+import{j as r}from"./index-Cx1jAj0Z.js";import{S as e,a as t}from"./PapersPage-BeOnBt7y.js";function s(){return r.jsx(r.Fragment,{children:"Productos"})}function a(){return r.jsxs(r.Fragment,{children:[r.jsx(s,{}),r.jsx(e,{}),r.jsx(t,{})]})}export{a as default};
